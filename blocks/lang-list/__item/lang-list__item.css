@@ -1,0 +1,9 @@
+.lang-list__item {
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  margin: 0 19px 0 0;
+}
+.lang-list__item:last-of-type {
+  margin: 0;
+}

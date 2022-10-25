@@ -1,0 +1,13 @@
+.page {
+  color: #ffffff;
+  font-family: "Inter", "Arial", sans-serif;
+  padding: 28px 0 24px;
+  -webkit-font-smoothing: antialiased;
+}
+
+@media screen and (min-width: 1280px) {
+  .page {
+    max-width: 1280px;
+    margin: 0 auto;
+  }
+}
