@@ -1,14 +1,10 @@
----
-
-### `Яндекс.Практикум`
-
 **Курс "Веб-разработчик".** Проектная работа №3
 
 ---
 
 # "Путешествия по России"
 
-[**Russian travel**](https://github.com/Syrepa/russian-travel.gitl) (ссылка для просмотра)
+[**Russian travel**](https://syrepa.github.io/russian-travel/) (ссылка для просмотра)
 
 ## Описание проекта
 
