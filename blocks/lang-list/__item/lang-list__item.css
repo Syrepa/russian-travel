@@ -7,3 +7,9 @@
 .lang-list__item:last-of-type {
   margin: 0;
 }
+@media screen and (max-width: 320px) {
+  .lang-list__item {
+    font-size: 18px;
+    line-height: 20px;
+  }
+}
