@@ -5,7 +5,7 @@
   margin: 0 19px 0 0;
 }
 .lang-list__item:last-of-type {
-  margin: 0;
+  margin-right: 0;
 }
 @media screen and (max-width: 320px) {
   .lang-list__item {
