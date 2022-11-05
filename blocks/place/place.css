@@ -22,5 +22,7 @@
     grid-template-columns: auto;
     row-gap: 32px;
     padding-bottom: 50px;
+    padding-left: 0;
+    padding-right: 0;
   }
 }
