@@ -8,6 +8,13 @@
 .place__paragraph-item:last-of-type {
   margin-bottom: 0;
 }
+@media screen and (max-width: 768px) {
+  .place__paragraph-item {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+  }
+}
 @media screen and (max-width: 320px) {
   .place__paragraph-item {
     padding: 0 16px;

@@ -1,4 +1,4 @@
-.lang-list__item_active {
+.lang-list__link_active {
   text-decoration: underline;
   text-underline-offset: 0.2em;
 }
